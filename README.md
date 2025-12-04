@@ -4,6 +4,7 @@
 
 <img width="851" height="461" alt="Capture d’écran 2025-12-04 232637" src="https://github.com/user-attachments/assets/7789a2fc-83c8-4e50-9f15-34fedd350025" />
 
+
 <img width="626" height="442" alt="image" src="https://github.com/user-attachments/assets/2e81c05c-07f5-4087-bfeb-508d6a0d30ff" />
 
        # Étape 2 : Création de tableaux NumPy
